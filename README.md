@@ -2,3 +2,5 @@ test
 ====
 
 testD
+
+int i;
